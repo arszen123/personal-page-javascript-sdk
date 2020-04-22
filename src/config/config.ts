@@ -1,8 +1,8 @@
-const appUrl = 'http://127.0.0.1/';
+const appUrl = 'http://pp.devel/';
 
 export const config = {
     production: false,
     appUrl: appUrl,
-    apiUrl: 'http://127.0.0.1:8080/',
+    apiUrl: 'http://pp.devel:8080/',
     authUrl: appUrl + 'oauth/authorize',
 };
