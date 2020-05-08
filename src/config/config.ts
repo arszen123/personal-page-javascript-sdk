@@ -1,8 +1,8 @@
-const appUrl = 'http://pp.devel/';
+const appUrl = 'https://personalpage-43b94.web.app/';
 
 export const config = {
     production: false,
     appUrl: appUrl,
-    apiUrl: 'http://pp.devel:8080/',
+    apiUrl: 'https://pp-api123.herokuapp.com/',
     authUrl: appUrl + 'oauth/authorize',
 };
